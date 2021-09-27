@@ -1,0 +1,52 @@
+{
+    "telemetry": [
+    {
+        "endpoint": "api.omc.samsungdm.com",
+        "info": "logs SIM insertion"
+    },
+    {
+        "endpoint": "samsung-directory.edge.hiyaapi.com",
+        "info": "logs making/receiving phone call"
+    },
+    {
+        "endpoint": "sun-apps.sfr.com",
+        "info": "time of last reboot, wakeup_success, wakeup_error, error stack traces, whether SIM inserted, duration app com.altice.android.myapps has been active"
+    },
+    {
+        "endpoint": "com.wssyncmldm, com.samsung.android.samsungpass, com.samsung.android.authfw, com.altice.android.myapps, com.samsung.android.bixby.agent, com.samsung.android.game.gamehome, com.sec.android.app.samsungapps, com.sfr.android.sfrjeux",
+        "info": "use Google Analytics to log user interaction, including screens/activities viewed plus duration and timestamp"
+    }],
+    "device_data": [
+    {
+        "endpoint": "gos-api.gos-gsp.io",
+        "info": "details of installed apps"
+    },
+    {
+        "endpoint": "www.ospserver.net, dms.ospserver.net",
+        "info": "device details"
+    },
+    {
+        "endpoint": "api.omc.samsungdm.com, dir-apis.samsungdm.com, api.gras.samsungdm.com, ie-odc.samsungapps.com, sdk.pushmessage.samsung.com",
+        "info": "device details"
+    },
+    {
+        "endpoint": "sspapi-prd.samsungrs.com, us-api.mcsvc.samsung.com",
+        "info": "device model"
+    },
+    {
+        "endpoint": "samsung-directory.edge.hiyaapi.com",
+        "info": "installed apps"
+    },
+    {
+        "endpoint": "sun-apps.sfr.com",
+        "info": "device details"
+    },
+    {
+        "endpoint": "mobile.pipe.aria.microsoft.com, vortex.data.microsoft.com",
+        "info": "device details, details of installedMicrosoft apps"
+    },
+    {
+        "endpoint": "app.adjust.com, www.linkedin.com",
+        "info": "device details,"
+    }]
+}

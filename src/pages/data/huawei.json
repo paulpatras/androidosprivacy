@@ -1,0 +1,19 @@
+{
+	"nodes": [{"id": "handset", "color": "#F37560"},
+			 {"id": "huawei cloud", "color": "#61CDBB"},
+			 {"id": "google analytics", "color": "#61CDBB"},
+			 {"id": "microsoft", "color": "#61CDBB"},
+			 {"id": "avast", "color": "#61CDBB"},
+			 {"id": "Qihoo 360", "color": "#61CDBB"},
+			 {"id": "dailymotion", "color": "#61CDBB"},
+			 {"id": "google apps", "color": "#E8C1A0"},
+			 {"id": "swiftkey", "color": "#E8C1A0"}],
+	"links": [{"source": "handset", "target": "huawei cloud", "data": "identifiers, telemetry, device details", "value": 1},
+			 {"source": "handset", "target": "google analytics", "data": "identifiers, telemetry, device details", "value": 1},
+			 {"source": "handset", "target": "microsoft", "data": "identifiers, telemetry, device details", "value": 1},
+			 {"source": "handset", "target": "avast", "data": "identifiers, telemetry, device details", "value": 1},
+			 {"source": "handset", "target": "Qihoo 360", "data": "identifiers, telemetry, device details", "value": 1},
+			 {"source": "handset", "target": "dailymotion", "data": "identifiers, telemetry, device details", "value": 1},
+			 {"source": "google analytics", "target": "google apps", "data":"identifiers, telemtry, device details", "value": 1},
+			 {"source": "microsoft", "target": "swiftkey", "data": "identifiers, telemtry, device details", "value": 1}]
+}

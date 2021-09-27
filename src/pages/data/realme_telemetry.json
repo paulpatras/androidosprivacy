@@ -1,0 +1,28 @@
+{
+    "telemetry": [
+    {
+        "endpoint": "dceuex.push.heytapmobile.com",
+        "info": "Logs events associated with com.heytap.mcs, e.g. launch success and push_register, together with a timestamp"
+    }],
+    "device_data": [
+    {
+        "endpoint": "ifrus-eu.coloros.com, ifota−eu.realmemobile.com",
+        "info": "Device details"
+    },
+    {
+        "endpoint": "icosa-eu.coloros.com",
+        "info": "Installed apps"
+    },
+    {
+        "endpoint": "adx-f.ads.heytapmobile.com",
+        "info": "Device details"
+    },
+    {
+        "endpoint": "shorteuex.push.heytapmobile.com",
+        "info": "Device details, installed apps"
+    },
+    {
+        "endpoint": "dceuex.push.heytapmobile.com",
+        "info": "Device details"
+    }]
+}

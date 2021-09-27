@@ -1,0 +1,35 @@
+{
+    "nonsystem_app":[
+    	{
+            "endpoint": "httpdns-euex-push.heytapmobile.com",
+            "identifiers": "deviceId, DUID/VAID"
+        },
+        {
+            "endpoint": "adx-f.ads.heytapmobile.com",
+            "identifiers": "GAID, OUID"
+        },
+        {
+            "endpoint": "shorteuex.push.heytapmobile.com",
+            "identifiers": "DUID/VAID, OUID, device_id, fcm_token (Firebase)"
+        },
+        {
+            "endpoint": "dceuex.push.heytapmobile.com",
+            "identifiers": "DUID/VAID, OIUD"
+        }
+    ],
+    "system_app": [
+        {
+            "endpoint": "ifrus-eu.coloros.com, ifota−eu.realmemobile.com",
+            "identifiers": "guid, registrationId"
+        },
+        {
+            "endpoint": "icosa-eu.coloros.com",
+            "identifiers": "guid"
+        },
+        {
+            "endpoint": "esa-reg-eup.myoppo.com",
+            "identifiers": "IMEI, guid"
+        }
+
+    ]
+}

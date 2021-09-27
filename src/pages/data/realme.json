@@ -1,0 +1,16 @@
+{
+	"nodes": [{"id": "handset", "color": "#F37560"},
+			 {"id": "realme cloud", "color": "#61CDBB"},
+			 {"id": "google analytics", "color": "#61CDBB"},
+			 {"id": "com.heytap.mcs", "color": "#E8C1A0"},
+			 {"id": "google apps", "color": "#E8C1A0"},
+			 {"id": "colorOS", "color": "#E8C1A0"},
+			 {"id": "oppo", "color": "#E8C1A0"}],
+	"links": [{"source": "handset", "target": "realme cloud", "data": "identifiers, telemetry, device details", "value": 1},
+			 {"source": "handset", "target": "google analytics", "data": "identifiers, telemetry, device details", "value": 1},
+			 {"source": "google analytics", "target": "com.heytap.mcs", "data": "identifiers, telemtry, device details", "value": 1},
+			 {"source": "google analytics", "target": "google apps", "data":"identifiers, telemtry, device details", "value": 1},
+			 {"source": "realme cloud", "target": "oppo", "data": "identifiers, telemtry, device details", "value": 1},
+			 {"source": "realme cloud", "target": "colorOS", "data": "identifiers, telemtry, device details", "value": 1},
+			{"source": "realme cloud", "target": "com.heytap.mcs", "data": "identifiers, telemtry, device details", "value": 1}]
+}

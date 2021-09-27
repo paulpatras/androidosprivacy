@@ -1,0 +1,91 @@
+{
+    "nonsystem_app":[
+    	{
+            "endpoint": "sun-apps.sfr.com",
+            "identifiers": "Firebase ID"
+        },
+        {
+            "endpoint": "mobile.pipe.aria.microsoft.com",
+            "identifiers": "secure settings android_id, DeviceInfo.SDKUid, cai.device.id, TenantId"
+        },
+        {
+            "endpoint": "config.edge.skype.com",
+            "identifiers": "secure settings android_id"
+        },
+        {
+            "endpoint": "app.adjust.com",
+            "identifiers": "GAID, android_uuid"
+        },
+        {
+            "endpoint": "www.linkedin.com",
+            "identifiers": "bcookie, bscookie, lidc, trackingId"
+        },
+        {
+            "endpoint": "samsung-directory.edge.hiyaapi.com",
+            "identifiers": "GAID X-Hiy-Installation-User-ID, hin, hui"
+        }
+    ],
+    "system_app": [
+        {
+            "endpoint": "gos-api.gos-gsp.io",
+            "identifiers": "uuid"
+        },
+        {
+            "endpoint": "api.omc.samsungdm.com",
+            "identifiers": "hardware serial number, Samsung Consumer ID, Firebase IDs/tokens"
+        },
+        {
+            "endpoint": "dir-apis.samsungdm.com",
+            "identifiers": "IMEIs, hardware serial number, Samsung Consumer ID"
+        },
+        {
+            "endpoint": "api.gras.samsungdm.com",
+            "identifiers": "hardware serial number, regID"
+        },
+        {
+            "endpoint": "capi.samsungcloud.com",
+            "identifiers": "device_id, authorization value"
+        },
+        {
+            "endpoint": "pinning-02.secb2b.com",
+            "identifiers": "deviceid"
+        },
+        {
+            "endpoint": "eu-kaf.samsungknox.com",
+            "identifiers": "hashes of IMEIs, hash of hardware serial number"
+        },
+        {
+            "endpoint": "www.ospserver.net",
+            "identifiers": "IMEIs, Samsung Consumer ID, hardware serial number, mobile network cell ID/location"
+        },
+        {
+            "endpoint": "mfota-cloud-dn.ospserver.net",
+            "identifiers": "IMEI, Firebase ID"
+        },
+        {
+            "endpoint": "sspapi-prd.samsungrs.com",
+            "identifiers": "GAID"
+        },
+        {
+            "endpoint": "dms.ospserver.net",
+            "identifiers": "IMEIs"
+        },
+        {
+            "endpoint": "sdk.pushmessage.samsung.com",
+            "identifiers": "IMEI, Firebase ID"
+        },
+        {
+            "endpoint": "us-api.mcsvc.samsung.com",
+            "identifiers": "x-smcs-dids"
+        },
+        {
+            "endpoint": "us-rd.mcsvc.samsung.com",
+            "identifiers": "sid"
+        },
+        {
+            "endpoint": "ie-odc.samsungapps.com",
+            "identifiers": "IMEI"
+        }
+
+    ]
+}

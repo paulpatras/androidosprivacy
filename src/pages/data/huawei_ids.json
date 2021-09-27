@@ -1,0 +1,39 @@
+{
+    "nonsystem_app":[
+    	{
+            "endpoint": "in.appcenter.ms",
+            "identifiers": "installId"
+        },
+        {
+            "endpoint": "telemetry.api.swiftkey.com",
+            "identifiers": "installId, GAID"
+        }
+    ],
+    "system_app": [
+        {
+            "endpoint": "query.hicloud.com",
+            "identifiers": "hardware serial number, device cert, udid"
+        },
+        {
+            "endpoint": "configserver−dre.platform.hicloud.com",
+            "identifiers": "hardware serial number"
+        },
+        {
+            "endpoint": "servicesupport.hicloud.com",
+            "identifiers": "userId"
+        },
+        {
+            "endpoint": "shepherd.sb.avast.com, apkrep.ff.avast.com",
+            "identifiers": " hash of android_id, ABUID"
+        },
+        {
+            "endpoint": "mvconf.cloud.360safe.com, mclean.cloud.360safe.com",
+            "identifiers": "uuid"
+        },
+        {
+            "endpoint": "pebed.dm−event.net, dmxleo.dailymotion.com",
+            "identifiers": "GAID"
+        }
+
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "nodes": [
+    {
+        "id": "handset",
+        "color": "#F37560"
+    },
+    {
+        "id": "samsung cloud",
+        "color": "#61CDBB"
+    },
+    {
+        "id": "microsoft",
+        "color": "#61CDBB"
+    },
+    {
+        "id": "google analytics",
+        "color": "#61CDBB"
+    },
+    {
+        "id": "skydrive",
+        "color": "#E8C1A0"
+    },
+    {
+        "id": "linkedin",
+        "color": "#E8C1A0"
+    },
+    {
+        "id": "microsoft.com",
+        "color": "#E8C1A0"
+    },
+    {
+        "id": "SFR",
+        "color": "#E8C1A0"
+    },
+    {
+        "id": "samsung apps",
+        "color": "#E8C1A0"
+    },
+    {
+        "id": "google apps",
+        "color": "#E8C1A0"
+    },
+    {
+        "id": "g-skydrive",
+        "color": "#E8C1A0"
+    }],
+    "links": [
+    {
+        "source": "handset",
+        "target": "samsung cloud",
+        "data": "identifiers, telemetry, device details",
+        "value": 1
+    },
+    {
+        "source": "handset",
+        "target": "google analytics",
+        "data": "identifiers, telemetry, device details",
+        "value": 1
+    },
+    {
+        "source": "handset",
+        "target": "microsoft",
+        "data": "identifiers, telemtry, device details",
+        "value": 1
+    },
+    {
+        "source": "microsoft",
+        "target": "microsoft.com",
+        "data": "identifiers,, telemtry, device details",
+        "value": 1
+    },
+    {
+        "source": "microsoft",
+        "target": "linkedin",
+        "data": "identifiers, telemtry, device details",
+        "value": 1
+    },
+    {
+        "source": "microsoft",
+        "target": "skydrive",
+        "data": "identifiers, telemtry, device details",
+        "value": 1
+    },
+    {
+        "source": "google analytics",
+        "target": "g-skydrive",
+        "data": "identifiers, telemtry, device details",
+        "value": 1
+    },
+    {
+        "source": "google analytics",
+        "target": "SFR",
+        "data": "identifiers, telemtry, device details",
+        "value": 1
+    },
+        {
+        "source": "google analytics",
+        "target": "samsung apps",
+        "data": "identifiers, telemtry, device details",
+        "value": 1
+    },
+    {
+        "source": "google analytics",
+        "target": "google apps",
+        "data": "identifiers, telemtry, device details",
+        "value": 1
+    }]
+}

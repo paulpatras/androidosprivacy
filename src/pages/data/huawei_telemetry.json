@@ -1,0 +1,48 @@
+{
+    "telemetry": [
+    {
+        "endpoint": "telemetry.api.swiftkey.com",
+        "info": "When the keyboard is used within an app, the app name, number of characters entered and an event timestamp are sent e.g. use of searchbar, contacts and messaging apps is logged.  Interactions with the keyboard, e.g. opening the clipboard, viewing/modifying the settings, are also logged."
+    },
+    {
+        "endpoint": "in.appcenter.ms",
+        "info": "Logs Swiftkey app crashes, including stack traces."
+    },
+    {
+        "endpoint": "pebed.dm−event.net",
+        "info": "Logs events and settings associated with com.huawei.himovie.overseas app e.g. event initStart"
+    },
+    {
+        "endpoint": "apkrep.ff.avast.com",
+        "info": "Logs app details when a new app is installed"
+    }],
+    "device_data": [
+    {
+        "endpoint": "query.hicloud.com",
+        "info": "Device details"
+    },
+    {
+        "endpoint": "configserver−dre.platform.hicloud.com",
+        "info": "Installed apps"
+    },
+    {
+        "endpoint": "servicesupport.hicloud.com",
+        "info": "Device details"
+    },
+    {
+        "endpoint": "shepherd.sb.avast.com, apkrep.ff.avast.com",
+        "info": "Device details"
+    },
+    {
+        "endpoint": "mvconf.cloud.360safe.com/safeupdate",
+        "info": "Device details, installed apps"
+    },
+    {
+        "endpoint": "in.appcenter.ms, bibo.api.swiftkey.com, telemetry.api.swiftkey.com",
+        "info": "Device details"
+    },
+    {
+        "endpoint": "pebed.dm−event.net",
+        "info": "Device details"
+    }]
+}

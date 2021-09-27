@@ -1,0 +1,36 @@
+{
+    "Huawei": [
+        ["80.158.20.103", " grs.dbankcloud.com", 50.0902, 8.4493],
+        ["80.158.19.121", " query.hicloud.com, grs.hicloud.com", 50.9333, 6.95],
+        ["209.85.202.95", " play.googleapis.com, connectivitycheck.gstatic.com, play.googleapis.com", 38.0088, -122.1175],
+        ["74.125.193.94", " connectivitycheck.gstatic.com, www.googleapis.com, android.clients.google.com, r2---sn-q0c7rn76.gvt1.com, android-safebrowsing.google.com, www.googleadservices.com, www.youtube.com, app-measurement.com, r5---sn-q0cedn7s.gvt1.com, r2---sn-q0cedn7s.gvt1.com, android.clients.google.com, app-measurement.com, r4---sn-q0c7rn76.gvt1.com, www.google.com, www.google.com, www.google.com, play.googleapis.com, r1---sn-q0c7rn76.gvt1.com, r3---sn-q0c7rn76.gvt1.com, r3---sn-q0cedn7s.gvt1.com, www.google.com, www.google.com", 53.3331, -6.2489],
+        ["5.62.40.178", " auth.ff.avast.com, apkrep.ff.avast.com", 50.1107, 8.673],
+        ["69.94.77.204", " analytics.ff.avast.com", 51.5085, -0.1257],
+        ["160.44.207.113", " servicesupport.hicloud.com", 47.6569, 9.4755]
+    ],
+    "Xiaomi": [
+        ["74.125.193.94", " www.gstatic.com, play.googleapis.com, app-measurement.com, lh3.googleusercontent.com, dl.google.com, www.google.com, www.google.com, app-measurement.com, android-safebrowsing.google.com, www.google.com, android.clients.google.com, r1---sn-q0c7rn76.gvt1.com, r4---sn-q0c7rn76.gvt1.com, r3---sn-q0cedn7s.gvt1.com, www.google.com, app-measurement.com, www.google.com, www.googleapis.com, r5---sn-q0c7rn76.gvt1.com, r3---sn-q0c7rn76.gvt1.com, r4---sn-q0cedn7s.gvt1.com, android.clients.google.com, www.google.com, www.google.com, www.youtube.com, www.googleadservices.com, r1---sn-q0cedn7s.gvt1.com", 53.3331, -6.2489],
+        ["47.241.69.47", " api.ad.intl.xiaomi.com, api.ad.intl.xiaomi.com, api.ad.intl.xiaomi.com, api.ad.intl.xiaomi.com, sdkconfig.ad.intl.xiaomi.com, sdkconfig.ad.xiaomi.com, api.ad.intl.xiaomi.com, mcc.intl.inf.miui.com, api.ad.intl.xiaomi.com, api.ad.intl.xiaomi.com, api.ad.intl.xiaomi.com, tracking.intl.miui.com, data.mistat.intl.xiaomi.com, api.ad.intl.xiaomi.com, update.intl.miui.com, global.market.xiaomi.com, data.mistat.intl.xiaomi.com, api.ad.intl.xiaomi.com, api.ad.intl.xiaomi.com, data.mistat.intl.xiaomi.com", 1.2897, 103.8501],
+        ["74.125.90.100", " www.google.com, connectivitycheck.gstatic.com, android.clients.google.com, android-safebrowsing.google.com, connectivitycheck.gstatic.com, www.google.com, www.googleapis.com, www.googleadservices.com, play.googleapis.com, android.clients.google.com", 38.0088, -122.1175],
+        ["163.181.57.226", " f4.market.xiaomi.com", 51.5085, -0.1257]
+    ],
+    "Realme": [
+        ["74.125.193.95", " play.googleapis.com, www.google.com, ssl.google-analytics.com, android.clients.google.com, accounts.google.com, r2---sn-q0cedn7s.gvt1.com, r2---sn-q0c7rn76.gvt1.com, update.googleapis.com, redirector.gvt1.com, r3---sn-q0cedn7s.gvt1.com, r4---sn-q0cedn7s.gvt1.com, r5---sn-q0cedn7s.gvt1.com, r1---sn-q0cedn7s.gvt1.com, pagead2.googlesyndication.com, app-measurement.com, www.googleadservices.com, www.youtube.com, r5---sn-q0c7rn76.gvt1.com, r4---sn-q0c7rn76.gvt1.com, r3---sn-q0c7rn76.gvt1.com, r1---sn-q0c7rn76.gvt1.com, www.google.com, i.ytimg.com, dl.google.com, www.googleadservices.com, www.google.com, www.google.com, www.googleadservices.com, www.google.com, redirector.gvt1.com, www.googleadservices.com, ssl.google-analytics.com, dl.google.com", 53.3331, -6.2489],
+        ["209.85.203.139", " android.clients.google.com, www.google.com, edgedl.gvt1.com, growth-pa.googleapis.com, www.google.com, play.googleapis.com, i.ytimg.com, connectivitycheck.gstatic.com, i.ytimg.com", 38.0088, -122.1175],
+        ["35.180.239.129", " classify-eu.apps.coloros.com, icosa-eu.coloros.com, icosa-eu.coloros.com, omes-sec.heytapmobile.com, languagef-eu.coloros.com, languagef-eu.coloros.com, ifota-eu.realmemobile.com, shorteuex.push.heytapmobile.com, dceuex.push.heytapmobile.com, dceuex.push.heytapmobile.com", 48.8534, 2.3488]
+    ],
+    "Samsung": [
+        ["74.125.193.113", " android.clients.google.com, play.googleapis.com, sspapi-prd.samsungrs.com, www.google.com, www.gstatic.com, www.google.com, www.google.com, android.clients.google.com, vas.samsungapps.com, sdk.pushmessage.samsung.com, www.google.com, www.google.com, app-measurement.com, app-measurement.com, www.google.com, mdh-pa.googleapis.com, vas.samsungapps.com, gos-api.gos-gsp.io, android.clients.google.com, pinning-02.secb2b.com, eu-kaf.samsungknox.com, vas.samsungapps.com, gos-api.gos-gsp.io, dir-apis.samsungdm.com, www.googleadservices.com, www.youtube.com, vas.samsungapps.com, gos-api.gos-gsp.io, ie-odc.samsungapps.com, vas.samsungapps.com", 53.3331, -6.2489],
+        ["193.155.127.31", " fota-apis.samsungdm.com", 50.6814, 8.3037],
+        ["213.71.30.150", " www.ospserver.net, dms.ospserver.net", 50.1155, 8.6842],
+        ["87.248.214.69", " fota-cloud-dn.ospserver.net", 51.5085, -0.1257],
+        ["209.85.202.95", " play.googleapis.com, connectivitycheck.gstatic.com, play.googleapis.com, android.clients.google.com, www.youtube.com", 38.0088, -122.1175],
+        ["151.101.36.223", " www.python.org, oneclient.sfx.ms, skyapi.live.net", 52.374, 4.8897],
+        ["104.26.9.126", " 104.26.9.126, www.change.org", 37.7621, -122.3971],
+        ["13.107.42.23", " config.edge.skype.com", 47.674, -122.1215],
+        ["13.88.28.53", " mobile.pipe.aria.microsoft.com", 37.3476, -121.887],
+        ["185.151.204.12", " app.adjust.com", 52.5352, 13.4257],
+        ["128.30.52.100", " www.w3.org", 42.3751, -71.1056],
+        ["52.13.204.79", " capi.samsungcloud.com", 45.8399, -119.7006]
+    ]
+}

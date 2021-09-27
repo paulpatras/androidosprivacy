@@ -1,0 +1,52 @@
+{
+    "telemetry": [
+    {
+        "endpoint": "tracking.intl.miui.com",
+        "info": "Logs app windows/activities displayed to user, with timestamp and duration.  Logs, for example, time/duration of phone calls"
+    },
+    {
+        "endpoint": "System apps com.miui.msa.global, com.xiaomi.discover, com.android.thememanager",
+        "info": "logs events using Google Analytics"
+    },
+    {
+        "endpoint": "moaps.tmo.net",
+        "info": "Logs events enableractivated"
+    },
+    {
+        "endpoint": "www.facebook.com, graph.facebook.com",
+        "info": "device sensor data (accelerometer, rotation, battery)"
+    }],
+    "device_data": [
+    {
+        "endpoint": "tracking.intl.miui.com",
+        "info": "device details, installed apps"
+    },
+    {
+        "endpoint": "global.market.xiaomi.com",
+        "info": "device details, installed apps"
+    },
+    {
+        "endpoint": "api.sec.intl.miui.com",
+        "info": "device details"
+    },
+    {
+        "endpoint": "api.sec.intl.miui.com",
+        "info": "device details"
+    },
+    {
+        "endpoint": "fr.register. xmpush.global.xiaomi.com",
+        "info": "device details"
+    },
+    {
+        "endpoint": "sdkconfig.ad.intl.xiaomi.com, mcc.intl.inf.miui.com",
+        "info": "device details"
+    },
+    {
+        "endpoint": "moaps.tmo.net",
+        "info": "device details"
+    },
+    {
+        "endpoint": "www.facebook.com, graph.facebook.com",
+        "info": "device details,"
+    }]
+}

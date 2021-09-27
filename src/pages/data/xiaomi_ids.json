@@ -1,0 +1,55 @@
+{
+    "nonsystem_app":[
+    	{
+            "endpoint": "moaps.tmo.net",
+            "identifiers": "uid"
+        },
+        {
+            "endpoint": "www.facebook.com",
+            "identifiers": "ASHAS, handset IP addres"
+        }
+    ],
+    "system_app": [
+        {
+            "endpoint": "tracking.intl.miui.com",
+            "identifiers": "IMEIs, IMSI, VAID, GAID, fid, hash of Wifi MAC address, instance_id"
+        },
+        {
+            "endpoint": "api.sec.intl.miui.com",
+            "identifiers": "hash of deviceID, hash of android_id in secure settings, hash of devID"
+        },
+        {
+            "endpoint": "api.ad.intl.xiaomi.com",
+            "identifiers": "GAID"
+        },
+        {
+            "endpoint": "update.intl.miui.com",
+            "identifiers": "hash of IMEI"
+        },
+        {
+            "endpoint": "fr.register.xmpush. global.xiaomi.com",
+            "identifiers": "GAID, VAID"
+        },
+        {
+            "endpoint": "find.api.micloud.xiaomi.net",
+            "identifiers": "fid, devID"
+        },
+        {
+            "endpoint": "data.mistat.xiaomi.com",
+            "identifiers": "sid, AES key"
+        },
+        {
+            "endpoint": "sdkconfig.ad.intl.xiaomi.com",
+            "identifiers": "data missing"
+        },
+        {
+            "endpoint": "mcc.intl.inf.miui.com",
+            "identifiers": "uid"
+        },
+        {
+            "endpoint": "global.market.xiaomi.com",
+            "identifiers": "guid, Firebase IDs"
+        }
+
+    ]
+}
