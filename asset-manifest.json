@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.540b5140.chunk.css",
+    "main.js": "/static/js/main.e1900b1a.chunk.js",
+    "main.js.map": "/static/js/main.e1900b1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d1ed6d5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d1ed6d5f.js.map",
+    "static/css/2.a3d19e46.chunk.css": "/static/css/2.a3d19e46.chunk.css",
+    "static/js/2.e91b7446.chunk.js": "/static/js/2.e91b7446.chunk.js",
+    "static/js/2.e91b7446.chunk.js.map": "/static/js/2.e91b7446.chunk.js.map",
+    "static/js/3.433e30fc.chunk.js": "/static/js/3.433e30fc.chunk.js",
+    "static/js/3.433e30fc.chunk.js.map": "/static/js/3.433e30fc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a3d19e46.chunk.css.map": "/static/css/2.a3d19e46.chunk.css.map",
+    "static/css/main.540b5140.chunk.css.map": "/static/css/main.540b5140.chunk.css.map",
+    "static/js/2.e91b7446.chunk.js.LICENSE.txt": "/static/js/2.e91b7446.chunk.js.LICENSE.txt",
+    "static/media/realme-logo.7c38ea4a.png": "/static/media/realme-logo.7c38ea4a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1ed6d5f.js",
+    "static/css/2.a3d19e46.chunk.css",
+    "static/js/2.e91b7446.chunk.js",
+    "static/css/main.540b5140.chunk.css",
+    "static/js/main.e1900b1a.chunk.js"
+  ]
+}
