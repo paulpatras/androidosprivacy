@@ -26,7 +26,7 @@ export default function IdentifierTable(data) {
             <Table sx={{ minWidth: 350 }} aria-label="simple table">
               <TableHead>
                 <TableRow>
-                  <TableCell align="center" width="30%">Xiaomi System App Endpoints</TableCell>
+                  <TableCell align="center" width="30%">System App Endpoints</TableCell>
                   <TableCell align="center" width="70%">identifiers Sent</TableCell>
                 </TableRow>
               </TableHead>
