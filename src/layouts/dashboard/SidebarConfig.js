@@ -12,12 +12,12 @@ const getIcon = (name) => <Icon icon={name} width={22} height={22} />;
 const sidebarConfig = [
   {
     title: 'dashboard',
-    path: '/dashboard/app',
+    path: '/app',
     icon: getIcon(pieChart2Fill)
   },
   {
     title: 'Xiaomi',
-    path: '/dashboard/xiaomi',
+    path: '/xiaomi',
     icon: <CardMedia
           style={{height: 22}}
           src={xiaomiPNG}
@@ -26,7 +26,7 @@ const sidebarConfig = [
   },
   {
     title: 'Huawei',
-    path: '/dashboard/huawei',
+    path: '/huawei',
     icon: <CardMedia
           style={{height: 22}}
           src={huaweiPNG}
@@ -35,7 +35,7 @@ const sidebarConfig = [
   },
   {
     title: 'Samsung',
-    path: '/dashboard/samsung',
+    path: '/samsung',
     icon: <CardMedia
           style={{height: 22}}
           src={samsungPNG}
@@ -44,7 +44,7 @@ const sidebarConfig = [
   },
   {
     title: 'Realme',
-    path: '/dashboard/realme',
+    path: '/realme',
     icon: <CardMedia
           style={{height: 22}}
           src={realmePNG}

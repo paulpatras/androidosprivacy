@@ -15,10 +15,10 @@ import NotFound from './pages/Page404';
 export default function Router() {
   return useRoutes([
     {
-      path: '/dashboard',
+      path: '/',
       element: <DashboardLayout />,
       children: [
-        { element: <Navigate to="/dashboard/app" replace /> },
+        { element: <Navigate to="/app" replace /> },
         { path: 'app', element: <DashboardApp /> },
         { path: 'xiaomi', element: <XiaomiView /> },
         { path: 'huawei', element: <HuaweiView /> },
