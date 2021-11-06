@@ -46,6 +46,8 @@ def parse_vendor_conns(filename):
 def add_conn_in_combined_list(l, conn):
     if len(l) == 0:
         l.append(conn)
+        l[0][1] = l[0][1] + "(" + l[0][0] + ")"
+        l[0][0] = "0"
     else:
         same_loc = False
         index = 0
@@ -55,9 +57,11 @@ def add_conn_in_combined_list(l, conn):
                 index = i
                 break
         if same_loc:
-            l[index][1] = l[index][1] + "," + conn[1]
+            l[index][1] = l[index][1] + "<br/>" + conn[1] + "(" + conn[0] + ")"
         else:
             l.append(conn)
+            l[-1][1] = l[-1][1] + "(" + l[-1][0] + ")"
+            l[-1][0] = "0"
 
 def conbime_domain_by_geo(json_filename):
     with open(json_filename, 'r') as f:

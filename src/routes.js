@@ -26,6 +26,6 @@ export default function Router() {
         { path: 'realme', element: <RealmeView />}
       ]
     },
-    { path: '*', element: <Navigate to="/404" replace /> }
+    { path: '*', element: <Navigate to="/404.html" replace /> }
   ]);
 }
