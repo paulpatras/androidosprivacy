@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.540b5140.chunk.css",
-    "main.js": "/static/js/main.6ed60cab.chunk.js",
-    "main.js.map": "/static/js/main.6ed60cab.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7315a3f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7315a3f9.js.map",
-    "static/css/2.a3d19e46.chunk.css": "/static/css/2.a3d19e46.chunk.css",
-    "static/js/2.277d9912.chunk.js": "/static/js/2.277d9912.chunk.js",
-    "static/js/2.277d9912.chunk.js.map": "/static/js/2.277d9912.chunk.js.map",
-    "static/js/3.50c1f37a.chunk.js": "/static/js/3.50c1f37a.chunk.js",
-    "static/js/3.50c1f37a.chunk.js.map": "/static/js/3.50c1f37a.chunk.js.map",
+    "main.js": "/static/js/main.f32ed7de.chunk.js",
+    "main.js.map": "/static/js/main.f32ed7de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a6308e0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a6308e0b.js.map",
+    "static/css/2.d8443b6d.chunk.css": "/static/css/2.d8443b6d.chunk.css",
+    "static/js/2.3add518c.chunk.js": "/static/js/2.3add518c.chunk.js",
+    "static/js/2.3add518c.chunk.js.map": "/static/js/2.3add518c.chunk.js.map",
+    "static/js/3.9c7e66bb.chunk.js": "/static/js/3.9c7e66bb.chunk.js",
+    "static/js/3.9c7e66bb.chunk.js.map": "/static/js/3.9c7e66bb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.a3d19e46.chunk.css.map": "/static/css/2.a3d19e46.chunk.css.map",
+    "static/css/2.d8443b6d.chunk.css.map": "/static/css/2.d8443b6d.chunk.css.map",
     "static/css/main.540b5140.chunk.css.map": "/static/css/main.540b5140.chunk.css.map",
-    "static/js/2.277d9912.chunk.js.LICENSE.txt": "/static/js/2.277d9912.chunk.js.LICENSE.txt",
+    "static/js/2.3add518c.chunk.js.LICENSE.txt": "/static/js/2.3add518c.chunk.js.LICENSE.txt",
     "static/media/logo.ce5eaa2b.svg": "/static/media/logo.ce5eaa2b.svg",
-    "static/media/realme-logo.7c38ea4a.png": "/static/media/realme-logo.7c38ea4a.png"
+    "static/media/mi-logo2.eca31cd3.png": "/static/media/mi-logo2.eca31cd3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7315a3f9.js",
-    "static/css/2.a3d19e46.chunk.css",
-    "static/js/2.277d9912.chunk.js",
+    "static/js/runtime-main.a6308e0b.js",
+    "static/css/2.d8443b6d.chunk.css",
+    "static/js/2.3add518c.chunk.js",
     "static/css/main.540b5140.chunk.css",
-    "static/js/main.6ed60cab.chunk.js"
+    "static/js/main.f32ed7de.chunk.js"
   ]
 }
